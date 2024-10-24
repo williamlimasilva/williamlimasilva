@@ -85,6 +85,10 @@
 [<img src="https://assets.dio.me/yy6sKyMBqxiVgT2DkB-OBj1pEWkmSSmDoD0BaiR607k/f:webp/h:120/q:80/L3RyYWNrcy9iYzQ1NDE0OC02ZTcyLTQwNDctOTVjYy1kNTE2NzA2YWU0MDUucG5n" height="50"></a>](https://web.dio.me/track/formacao-sql-db-specialist)
 [<img src="https://assets.dio.me/KIwdxM7_x0DPiyrnNEBcio7DYZDqtaSz2G4OPaSsLgs/f:webp/h:120/q:80/L3RyYWNrcy9kYTYwNDFhOS04MGVmLTQwOWUtYmQ1MC01ZTdiZTRkZmFkZjYucG5n" height="50"></a>](https://web.dio.me/track/formacao-java-developer)
 
+<h2>Degree</h2>
+<h4>Associate's Degree in Information Systems</h4>
+
+[<img src="https://faculdade.grancursosonline.com.br/logo.svg" height="50"></a>](https://faculdade.grancursosonline.com.br/curso/analise-e-desenvolvimento-de-sistemas/)
 
 <h2>GitHub Stats</h2>
 
