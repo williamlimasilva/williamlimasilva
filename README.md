@@ -1,5 +1,11 @@
 <div align="center">
 <h1>WILLIAM LIMA</h1>
+  
+<h5>ABOUT ME</h5>
+
+<hr>
+  <p>Full-Stack Developer proficient in HTML, CSS, JavaScript, SQL, and Spring Framework. With a background in industrial process standardization (Sharp, QPS, QFS, FTPM, TGW) and 6 Sigma (Green Belt), I bring a unique blend of technical and operational skills. Experienced in financial analysis and continuous improvement, I'm passionate about driving innovation and efficiency.</p>
+  <hr>
 
 <h2>Networking Platforms</h2>
 
@@ -64,6 +70,21 @@
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 </a>
+
+<h2>Bootcamps</h2>
+
+[<img src="https://assets.dio.me/7fBn4snFZGzJtNuYIdkJ9ec6bXUGC-XOZZo4eiE89WA/f:webp/h:120/q:80/L3RyYWNrcy9hMDM5YjM0Yy03YWE4LTRhM2QtYjc2NS0wN2M4YzgzN2Y2N2EucG5n" height="50"></a>](https://web.dio.me/track/santander-2024-backend-com-java) 
+
+<h2>Qualifications</h2>
+
+[<img src="https://assets.dio.me/PXTHzpYRJjOb5iSXboRqYrTpSTGIFVuStrwRtsTpVUc/f:webp/h:120/q:80/L3RyYWNrcy82MmVkMWYxZC04ZDc2LTRiYmMtOTA1Zi1lNzNkMjBjYjgyZjUucG5n" height="50"></a>](https://web.dio.me/track/formacao-html-web-developer)
+[<img src="https://assets.dio.me/gt-tEnhv4_p33iwDXfI-zutfiEJ-q27qVfDCcnLV7I0/f:webp/h:120/q:80/L3RyYWNrcy9kYTA0M2M3YS03MTg5LTQ0MWUtYmYyOC1hZGMyZDA1YTQ5MzQucG5n" height="50"></a>](https://web.dio.me/track/formacao-css-web-developer)
+[<img src="https://assets.dio.me/SpxOVwDjvWVCznHWNS8vWtBQV8bqs2456GSOVMZ1Fvk/f:webp/h:120/q:80/L3RyYWNrcy8wYjVjNDgwOS0yMzM5LTQ3ZTctYjlkZi01NjM1OWU0NGFjMWEucG5n" height="50"></a>](https://web.dio.me/track/formacao-ux-designer)
+[<img src="https://assets.dio.me/_ImeVq2qMIfyFkoYC-epZ9o-1X9soGtq69WUykqhiL4/f:webp/h:120/q:80/L3RyYWNrcy81NWU3MDQwZi03NzViLTQ3ZTUtYThmYi02OWQwMDJjYTE3YTkucG5n" height="50"></a>](https://web.dio.me/track/formacao-javascript-developer)
+[<img src="https://assets.dio.me/YMKQk8fKtE8p-F9s4dgwkY4nlTlBbLc1pWMvcQ1tYz4/f:webp/h:120/q:80/L3RyYWNrcy8yMjVlZmZjMy1hNGM0LTQ0ZTktYmE3Zi01M2NhYWFmZmJjZWMucG5n" height="50"></a>](https://web.dio.me/track/formacao-typescript-fullstack-developer)
+[<img src="https://assets.dio.me/yy6sKyMBqxiVgT2DkB-OBj1pEWkmSSmDoD0BaiR607k/f:webp/h:120/q:80/L3RyYWNrcy9iYzQ1NDE0OC02ZTcyLTQwNDctOTVjYy1kNTE2NzA2YWU0MDUucG5n" height="50"></a>](https://web.dio.me/track/formacao-sql-db-specialist)
+[<img src="https://assets.dio.me/KIwdxM7_x0DPiyrnNEBcio7DYZDqtaSz2G4OPaSsLgs/f:webp/h:120/q:80/L3RyYWNrcy9kYTYwNDFhOS04MGVmLTQwOWUtYmQ1MC01ZTdiZTRkZmFkZjYucG5n" height="50"></a>](https://web.dio.me/track/formacao-java-developer)
+
 
 <h2>GitHub Stats</h2>
 
